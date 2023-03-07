@@ -76,6 +76,7 @@
     "dist",
     "lib"
   ],
+  "types": "lib/index.d.ts",
   "dependencies": {
     "axios": "^0.19.2",
     "beautifymarker": "^1.0.7",
