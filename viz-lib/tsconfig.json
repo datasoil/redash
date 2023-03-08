@@ -6,7 +6,7 @@
     "lib": ["dom", "dom.iterable", "esnext"],
     "jsx": "react",
     "types": ["node", "jest"],
-    "outDir": "lib",
+    "outDir": "dist",
     "declaration": true,
     "strict": true,
     "esModuleInterop": true,
