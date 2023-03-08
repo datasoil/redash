@@ -2,7 +2,7 @@
   "name": "@redash/viz",
   "version": "1.0.0",
   "description": "Redash visualizations",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "clean": "rm -rf lib dist",
     "type-check": "tsc --noEmit",
